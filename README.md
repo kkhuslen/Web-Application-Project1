@@ -2,8 +2,6 @@
 
 ## About
 
-This is one of my projects from the ICSI301 Web Application Development course at the National University of Mongolia.
-
 The project is a simple web page made with HTML and CSS. It contains six blocks labeled A to F. I used this project to practice different ways of arranging elements and styling a web page.
 
 ## Technologies
